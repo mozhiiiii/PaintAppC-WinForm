@@ -1,0 +1,17 @@
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint_WinForm.Form1.resources
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\bin\Debug\net6.0-windows\Paint WinForm.exe
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\bin\Debug\net6.0-windows\Paint WinForm.deps.json
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\bin\Debug\net6.0-windows\Paint WinForm.runtimeconfig.json
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\bin\Debug\net6.0-windows\Paint WinForm.dll
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\bin\Debug\net6.0-windows\Paint WinForm.pdb
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.dll
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\refint\Paint WinForm.dll
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.pdb
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\Paint WinForm.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C#Projects\Paint WinForm\obj\Debug\net6.0-windows\ref\Paint WinForm.dll
